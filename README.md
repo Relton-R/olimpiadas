@@ -1,4 +1,4 @@
-### **Procurando Atletas? Aqui você encontra!** 
+### **Procurando Atletas? Aqui você encontra! - Imersão Dev com Google Gemini**
 
 **O que faz essa aplicação?**
 
